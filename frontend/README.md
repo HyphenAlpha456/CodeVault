@@ -34,8 +34,8 @@ CodeVault is a **Zero-Trust Data Transfer Platform** built to solve the problem 
 | **Frontend** | React.js, Tailwind CSS, Framer Motion, Lucide Icons |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB (Atlas), Mongoose |
-| **Security** | Crypto (Node.js native module), CORS, Helmet |
-| **Tools** | Git, Vercel (Frontend), Render (Backend) |
+| **Security** | Crypto (Node.js native module), CORS |
+
 
 ---
 
